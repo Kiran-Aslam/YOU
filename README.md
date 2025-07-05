@@ -24,6 +24,6 @@ This project is a quiet space — for anyone tired of pretending, seeking clarit
 ## 🛠️ Tech Stack
 - **Frontend & UI**: [Streamlit](https://streamlit.io/)  
 - **Language**: Python  
-- **Deployment**: Streamlit Community Cloud / Hugging Face Spaces
+- **Deployment**: Streamlit Community Cloud
 
 
